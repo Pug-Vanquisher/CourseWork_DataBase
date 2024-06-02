@@ -2536,11 +2536,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mikha\\Desktop\\Cursovaia\\coursework\\coursework\\coursework.csproj",
+      "projectUniqueName": "C:\\Users\\mikha\\Desktop\\DataBase_CourseWork\\CourseWork_DataBase\\coursework\\coursework\\coursework.csproj",
       "projectName": "coursework",
-      "projectPath": "C:\\Users\\mikha\\Desktop\\Cursovaia\\coursework\\coursework\\coursework.csproj",
+      "projectPath": "C:\\Users\\mikha\\Desktop\\DataBase_CourseWork\\CourseWork_DataBase\\coursework\\coursework\\coursework.csproj",
       "packagesPath": "C:\\Users\\mikha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mikha\\Desktop\\Cursovaia\\coursework\\coursework\\obj\\",
+      "outputPath": "C:\\Users\\mikha\\Desktop\\DataBase_CourseWork\\CourseWork_DataBase\\coursework\\coursework\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mikha\\AppData\\Roaming\\NuGet\\NuGet.Config",

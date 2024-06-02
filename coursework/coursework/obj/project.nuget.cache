@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s2glzFg/sLoTB6sT0B+xaccuUH8TC0DeIJSatKn3g3GBXZjVVq1JDIPft+tPvnY46I4i8ehs0AKmfnmG6XWhpA==",
+  "dgSpecHash": "P+713yLv0w8b6CQffspP8oeqbvZbUpRaaWACyzzRQFM0vFCbYFvgQNk8S7Q7jAuo1iSh1svC4UY1MUceYG3ERA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mikha\\Desktop\\Cursovaia\\coursework\\coursework\\coursework.csproj",
+  "projectFilePath": "C:\\Users\\mikha\\Desktop\\DataBase_CourseWork\\CourseWork_DataBase\\coursework\\coursework\\coursework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mikha\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\mikha\\.nuget\\packages\\google.protobuf\\3.25.1\\google.protobuf.3.25.1.nupkg.sha512",
