@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mikha\\Desktop\\Cursovaia\\coursework\\coursework\\wwwroot\\ProfImages\\profile.jpg",
+      "PackagePath": "staticwebassets\\ProfImages\\profile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mikha\\Desktop\\Cursovaia\\coursework\\coursework\\wwwroot\\images\\20k_large.png",
+      "PackagePath": "staticwebassets\\images\\20k_large.png"
+    },
+    {
+      "Id": "C:\\Users\\mikha\\Desktop\\Cursovaia\\coursework\\coursework\\wwwroot\\images\\AbibasOlymp.jpg",
+      "PackagePath": "staticwebassets\\images\\AbibasOlymp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mikha\\Desktop\\Cursovaia\\coursework\\coursework\\wwwroot\\images\\Headphones.jpg",
+      "PackagePath": "staticwebassets\\images\\Headphones.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mikha\\Desktop\\Cursovaia\\coursework\\coursework\\wwwroot\\images\\Mangal.jpg",
+      "PackagePath": "staticwebassets\\images\\Mangal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mikha\\Desktop\\Cursovaia\\coursework\\coursework\\wwwroot\\images\\Pivo.png",
+      "PackagePath": "staticwebassets\\images\\Pivo.png"
+    },
+    {
+      "Id": "C:\\Users\\mikha\\Desktop\\Cursovaia\\coursework\\coursework\\wwwroot\\images\\PivoBig.png",
+      "PackagePath": "staticwebassets\\images\\PivoBig.png"
+    },
+    {
+      "Id": "C:\\Users\\mikha\\Desktop\\Cursovaia\\coursework\\coursework\\wwwroot\\images\\Shampurs.jpg",
+      "PackagePath": "staticwebassets\\images\\Shampurs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mikha\\Desktop\\Cursovaia\\coursework\\coursework\\wwwroot\\images\\Skuf2.png",
+      "PackagePath": "staticwebassets\\images\\Skuf2.png"
+    },
+    {
+      "Id": "C:\\Users\\mikha\\Desktop\\Cursovaia\\coursework\\coursework\\wwwroot\\images\\T34.jpeg",
+      "PackagePath": "staticwebassets\\images\\T34.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mikha\\Desktop\\Cursovaia\\coursework\\coursework\\wwwroot\\images\\Tanki.png",
+      "PackagePath": "staticwebassets\\images\\Tanki.png"
+    },
+    {
+      "Id": "C:\\Users\\mikha\\Desktop\\Cursovaia\\coursework\\coursework\\wwwroot\\images\\TankiTolstovka.jpg",
+      "PackagePath": "staticwebassets\\images\\TankiTolstovka.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.coursework.props",
+      "PackagePath": "build\\coursework.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.coursework.props",
+      "PackagePath": "buildMultiTargeting\\coursework.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.coursework.props",
+      "PackagePath": "buildTransitive\\coursework.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.coursework.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
